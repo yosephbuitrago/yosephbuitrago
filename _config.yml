@@ -18,7 +18,7 @@ email: yosephbuitrago.01@gmail.com
 discus-identifier: yosephbuitrago # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-108519689-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
